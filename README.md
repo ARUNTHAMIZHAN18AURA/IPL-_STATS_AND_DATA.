@@ -24,6 +24,7 @@ The repository contains the following core files:
 *   `matches_rows.csv` — The core dataset containing granular match-by-match metrics and seasonal data.
 *   `finaliplproject.xlsx` — The cleaned, processed structural database spreadsheet compiling all analytical data.
 *   `IPL-Stats ppt.pptx` - The pptx cleaned and neat stuctered explaination of our project except thee graphs.
+*   `ipl_2024_wins_barchart.png` - The 2024 graph on number of wins.
 
 ## 🛠️ Setup & Installation
 To run this application locally on your computer, ensure you have Python installed, then follow these steps:
