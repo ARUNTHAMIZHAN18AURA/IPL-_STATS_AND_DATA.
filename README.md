@@ -23,6 +23,7 @@ The repository contains the following core files:
 *   `iplpyfinalcode.py` — The primary Python backend script handling the logic, data processing, and user interaction.
 *   `matches_rows.csv` — The core dataset containing granular match-by-match metrics and seasonal data.
 *   `finaliplproject.xlsx` — The cleaned, processed structural database spreadsheet compiling all analytical data.
+*   `IPL-Stats ppt.pptx` - The pptx cleaned and neat stuctered explaination of our project except thee graphs.
 
 ## 🛠️ Setup & Installation
 To run this application locally on your computer, ensure you have Python installed, then follow these steps:
