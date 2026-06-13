@@ -1,4 +1,10 @@
+## 📸 Project Screenshots
+
+Here are some screenshots showcasing the application in action:
 <img width="959" height="463" alt="image" src="https://github.com/user-attachments/assets/1503cb52-beee-41e3-a895-beda1327de56" />
+<img width="947" height="482" alt="image" src="https://github.com/user-attachments/assets/aef2b844-8dbe-40ee-886b-7b1a19d37671" />
+<img width="959" height="485" alt="image" src="https://github.com/user-attachments/assets/cb509d4a-a25c-4ea9-96ed-db423d878c2a" />
+
 <img width="883" height="447" alt="image" src="https://github.com/user-attachments/assets/30297ec0-6480-4096-9322-aebf7b639c41" />
 <img width="872" height="431" alt="image" src="https://github.com/user-attachments/assets/70779cce-fb27-4812-a9e6-bae8576703fb" />
 <img width="857" height="461" alt="image" src="https://github.com/user-attachments/assets/9ca91936-6b90-4e63-996f-9cf5c5654184" />
