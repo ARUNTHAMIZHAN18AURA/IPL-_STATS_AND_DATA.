@@ -44,3 +44,29 @@ To run this application locally on your computer, ensure you have Python install
    ```bash
    python iplpyfinalcode.py
    ```
+   ---
+
+## 📝 Notes & Troubleshooting
+
+Before running the application, please keep the following important points in mind:
+
+### 🛠 Prerequisites
+* **Python 3.x:** Ensure you have Python 3 installed on your local machine. You can verify this by running `python --version` in your terminal.
+* **Required Libraries:** If you encounter a `ModuleNotFoundError`, make sure you have successfully executed the installation command:
+```bash
+  pip install pandas matplotlib openpyxl
+---
+
+## ⚙️ Customization & Usage Guide
+
+This project features a built-in **Strike Rate Calculator**. You can customize its inputs or logic inside `iplpyfinalcode.py` to analyze different match situations or player performances.
+
+### 🏏 1. Calculate a Custom Player Strike Rate
+To calculate the strike rate for a specific player scenario manually within the script, update the input variables:
+```python
+# Locate these variables to change the calculation inputs
+runs_scored = 45  # Change to the number of runs
+balls_faced = 25  # Change to the number of balls faced
+
+# Formula used: (Runs / Balls) * 100
+strike_rate = (runs_scored / balls_faced) * 100
